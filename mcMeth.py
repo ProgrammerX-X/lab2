@@ -27,5 +27,5 @@ def monteCarloMethod(a, b, n, f):
     plt.ylabel('Y')
     axes.legend()
     plt.show()
-
+    
     print("Points: ", m)
